@@ -98,5 +98,13 @@ Remaining 20 bids: $20 discount each.
 
 The optimized discount auctioning model introduces dynamic discounting and strategic bidding rules to enhance bidder engagement and optimize revenue outcomes. By adjusting discount amounts and pricing distances based on auction activity, the model maintains competitiveness and fairness. Sellers can leverage these optimizations to maximize returns while ensuring participant satisfaction, making this model suitable for various high-value market segments.
 
+```
+Item $840.99
+Shipping $190.99
+Bidding discount -$10.75
+Taxes $130.65
+Total = $1170.87
+```
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
