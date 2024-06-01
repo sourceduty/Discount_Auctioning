@@ -115,9 +115,9 @@ Minimum Selling Price Validation:
 Effective Price is above the
 Minimum Selling Price ($8,000.00)
 
-Additional Costs/Fees                   $5,000.00
+Additional Costs/Fees                   $2,000.00
                                         ---------
-Total Price                            $15,000.00
+Total Price                            $11,000.00
 -------------------------------------------------
 Initial Pricing Distance:               $100.00
 -------------------------------------------------
