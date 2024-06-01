@@ -124,9 +124,9 @@ Initial Pricing Distance:               $100.00
 Total Bids:                             50
 -------------------------------------------------
 Discount Per Bid:
-First 10 bids:                         $10.00 each
-Next 20 bids:                          $15.00 each
-Remaining 20 bids:                     $20.00 each
+First 10 bids:                        $10.00 each
+Next 20 bids:                         $15.00 each
+Remaining 20 bids:                    $20.00 each
 -------------------------------------------------
 Thank you for your purchase!
 -------------------------------------------------
