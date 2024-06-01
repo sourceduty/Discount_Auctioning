@@ -107,20 +107,21 @@ Item Description                          Amount
 -------------------------------------------------
 Starting Price                         $10,000.00
 Total Discount Amount                  -$1,000.00
-                                        -----------
+                                        ---------
 Effective Price After Discount          $9,000.00
 Minimum Selling Price Validation:
-  Effective Price is above the Minimum Selling Price ($8,000.00)
+
+Effective Price is above the
+Minimum Selling Price ($8,000.00)
 
 Additional Costs/Fees                   $5,000.00
-                                        -----------
+                                        ---------
 Total Price                            $15,000.00
 -------------------------------------------------
 Initial Pricing Distance:               $100.00
 -------------------------------------------------
 Thank you for your purchase!
 -------------------------------------------------
-
 ```
 
 ***
