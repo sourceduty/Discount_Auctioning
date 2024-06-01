@@ -117,7 +117,11 @@ Minimum Selling Price ($8,000.00)
 
 Additional Costs/Fees                   $2,000.00
                                         ---------
-Total Price                            $11,000.00
+Subtotal                                  $110000
+
+Canadian HST                              $778.76
+
+Total Price                            $11,778.76
 -------------------------------------------------
 Initial Pricing Distance:               $100.00
 -------------------------------------------------
@@ -132,7 +136,7 @@ Thank you for your purchase!
 -------------------------------------------------
 ```
 
-The receipt details the final financial summary for an item sold through an optimized discount auctioning model. The starting price was set at $10,000, with a total discount amount of $1,000, leading to an effective price after discount of $9,000. This effective price is validated as being above the minimum selling price of $8,000, ensuring profitability for the seller. Additional costs and fees amounted to $5,000, bringing the subtotal to $14,000. Including the Canadian HST (13%) of $1,820, the total price reached $15,820. The auction allowed for 50 bids, distributed across three discount tiers: $10 for the first 10 bids, $15 for the next 20 bids, and $20 for the remaining 20 bids. The receipt also itemizes the discount per bid for each of the 50 bids placed by the winning bidder, reflecting the dynamic discounting strategy designed to sustain bidder engagement and maximize the auction’s profitability.
+The receipt details the final financial summary for an item sold through an optimized discount auctioning model. The starting price was set at $10,000, with a total discount amount of $1,000, leading to an effective price after discount of $9,000. This effective price is validated as being above the minimum selling price of $8,000, ensuring profitability for the seller. Additional costs and fees amounted to $2,000, bringing the subtotal to $11,000. Including the Canadian HST (13%) of $11,000 is $778.76, the total price reached $11,778.76. The auction allowed for 50 bids, distributed across three discount tiers: $10 for the first 10 bids, $15 for the next 20 bids, and $20 for the remaining 20 bids. The receipt also itemizes the discount per bid for each of the 50 bids placed by the winning bidder, reflecting the dynamic discounting strategy designed to sustain bidder engagement and maximize the auction’s profitability.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
