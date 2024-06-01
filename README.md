@@ -123,9 +123,9 @@ Canadian HST                              $778.76
 
 Total Price                            $11,778.76
 -------------------------------------------------
-Initial Pricing Distance:               $100.00
+Initial Pricing Distance:                 $100.00
 -------------------------------------------------
-Total Bids:                             50
+Total Bids:                                   50
 -------------------------------------------------
 Discount Per Bid:
 First 10 bids:                        $10.00 each
