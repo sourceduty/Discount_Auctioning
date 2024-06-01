@@ -3,8 +3,6 @@
 > A unique auction format where bidders earn discounts from the total sale price for each bid they place.
 
 #
-
-#
 ### Overview:
 
 Discount auctioning is a unique auction format where bidders earn discounts from the total sale price for each bid they place. This model incentivizes participation by rewarding bidders directly, while the seller controls the total discount amount and minimum selling price, ensuring a profitable outcome.
