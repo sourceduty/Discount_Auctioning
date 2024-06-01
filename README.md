@@ -109,6 +109,7 @@ Starting Price                         $10,000.00
 Total Discount Amount                  -$1,000.00
                                         ---------
 Effective Price After Discount          $9,000.00
+
 Minimum Selling Price Validation:
 
 Effective Price is above the
