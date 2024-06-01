@@ -99,11 +99,28 @@ Remaining 20 bids: $20 discount each.
 The optimized discount auctioning model introduces dynamic discounting and strategic bidding rules to enhance bidder engagement and optimize revenue outcomes. By adjusting discount amounts and pricing distances based on auction activity, the model maintains competitiveness and fairness. Sellers can leverage these optimizations to maximize returns while ensuring participant satisfaction, making this model suitable for various high-value market segments.
 
 ```
-Item $840.99
-Shipping $190.99
-Bidding discount -$10.75
-Taxes $130.65
-Total = $1170.87
+-------------------------------------------------
+                    RECEIPT
+-------------------------------------------------
+
+Item Description                          Amount
+-------------------------------------------------
+Starting Price                         $10,000.00
+Total Discount Amount                  -$1,000.00
+                                        -----------
+Effective Price After Discount          $9,000.00
+Minimum Selling Price Validation:
+  Effective Price is above the Minimum Selling Price ($8,000.00)
+
+Additional Costs/Fees                   $5,000.00
+                                        -----------
+Total Price                            $15,000.00
+-------------------------------------------------
+Initial Pricing Distance:               $100.00
+-------------------------------------------------
+Thank you for your purchase!
+-------------------------------------------------
+
 ```
 
 ***
