@@ -117,7 +117,7 @@ Minimum Selling Price ($8,000.00)
 
 Additional Costs/Fees                   $2,000.00
                                         ---------
-Subtotal                                  $110000
+Subtotal                                 $11,0000
 
 Canadian HST                              $778.76
 
